@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1092946499053",
+    "firebase_url": "https://testfb-e6f5f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "testfb-e6f5f",
+    "storage_bucket": "testfb-e6f5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092946499053:android:0a68431704fa8d2d2f43e4",
+        "android_client_info": {
+          "package_name": "ru.myitacademy.samsung.rtdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092946499053-o41g78ua8v4s92cr7tmnruudspfbchik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMWsguNqd-SlVr2jQtL3Bn6Ek-tx9oAZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092946499053-o41g78ua8v4s92cr7tmnruudspfbchik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092946499053:android:40461a12a6aa1cb82f43e4",
+        "android_client_info": {
+          "package_name": "ru.myitacademy.samsung.testfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092946499053-o41g78ua8v4s92cr7tmnruudspfbchik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMWsguNqd-SlVr2jQtL3Bn6Ek-tx9oAZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092946499053-o41g78ua8v4s92cr7tmnruudspfbchik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

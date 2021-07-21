@@ -1,0 +1,2 @@
+rootProject.name = "RTDB"
+include ':app'
